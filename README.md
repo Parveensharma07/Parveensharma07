@@ -21,9 +21,8 @@ modern, scalable and user-friendly applications.
 
 - 💻 Working with **Angular, Node.js, .NET & MySQL**
 - 🔄 Experienced in **modernizing legacy applications**
-- 🗄️ Working with **SQL Server, MySQL & MongoDB**
+- 🗄️ Working with **SQL Server, MySQL & PostgreSql**
 - 🤖 Exploring **AI & AI-powered development**
-- ⚙️ Currently learning **DevOps, Docker & Cloud**
 - 🚀 Always building, learning and experimenting
 - ☕ Tea > Coffee 😄
 
@@ -46,13 +45,13 @@ modern, scalable and user-friendly applications.
 ### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mssql,postgres" />
 </p>
 
 ### 🚀 Tools & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
 </p>
 
 ---
@@ -64,6 +63,4 @@ modern, scalable and user-friendly applications.
 🔗 REST APIs & Backend Services
 📊 Enterprise Applications
 🔄 Legacy Application Modernization
-🤖 AI-powered Applications
 ⚙️ Automation Tools
-☁️ Cloud & DevOps Projects
